@@ -6,4 +6,4 @@ There is no code, as the class is dedicated to the Project Manangement side of S
 
 The files are labeled chronologically, each was done within a 3 week time period.
 
-File report is at the end.
+Final mockup is at the end and is simply a concept and early prototype.
